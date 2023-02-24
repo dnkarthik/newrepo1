@@ -1,0 +1,9 @@
+{
+	"name": "kdn-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "778f52be-9904-4a0d-9705-3984301af3cb",
+		"tenantId": "373aee29-263a-4299-8897-129244c6576f"
+	}
+}
